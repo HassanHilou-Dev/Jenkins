@@ -1,2 +1,3 @@
 # react_django_demo_app
-A demo app for React and Django Deployment
+A demo app for React and Django Deployment and other updates
+# Add new updates
